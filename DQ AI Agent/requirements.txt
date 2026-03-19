@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+great-expectations
+langchain
+langchain-openai
+python-dotenv
