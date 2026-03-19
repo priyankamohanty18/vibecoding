@@ -6,7 +6,7 @@ PostgreSQL + Great Expectations + LangChain agent: detect data quality issues, e
 
 1. **Environment**
    - Copy `config.example.env` to `.env` and set `OPENAI_API_KEY` and `DATABASE_URL`.
-   - Example: `DATABASE_URL=postgresql+psycopg2://agent_user:agent_pwd@localhost:5432/mydb`
+   - Example: `DATABASE_URL=postgresql+psycopg2://user:pwd@localhost:5432/mydb`
 
 2. **Install**
    ```bash
